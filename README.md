@@ -6,7 +6,8 @@ This app will allow you to browse through different dishes, at the beginning the
 
 ![Photo 2](https://user-images.githubusercontent.com/104715456/175558133-df5928f1-b18f-44a2-a7b6-2097c90bce66.PNG)
 
-![photo 3](https://user-images.githubusercontent.com/104715456/175558159-c46c9f47-5285-4cb5-80d1-46b67ff98f0d.PNG)
+![photo 3](https://user-images.githubusercontent.com/104715456/175558649-b4dbac7c-d4c6-43a6-b26c-5198db4a56fc.PNG)
+
 
 Also you can click on any dish an you will be taken on private window with dish description and instructions on how to prepare it. 
 
